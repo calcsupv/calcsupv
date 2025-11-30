@@ -1,1 +1,13 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calcsupv&theme=vue-dark&layout=compact)](https://github.com/calcsupv)
+📂 /home/calcsupv  
+├── config/
+│   ├── system_tweaks.json
+│   ├── mobile_internals.map
+│   └── experiments.disabled
+├── tools/
+│   ├── random_utility.py
+│   ├── build_something.sh
+│   └── fix_what_i_broke.js
+├── logs/
+│   ├── boot.log
+│   └── errors (many)
+└── README (you are here)
