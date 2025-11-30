@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: '3.x'
       - name: ステータス生成
-        run: python generate_status.py
+        run: python .github/scripts/generate_status.py
       - name: README を更新してコミット
         run: |
           git config user.name "github-actions[bot]"
