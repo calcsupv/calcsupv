@@ -25,5 +25,3 @@ jobs:
           git add README.md
           git commit -m "README ステータス更新 [skip ci]" || echo "変更なし"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
-
-#fuck
