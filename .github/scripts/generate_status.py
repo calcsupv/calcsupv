@@ -5,7 +5,7 @@ now = datetime.now()
 hour = now.hour
 day = now.day
 
-# 時間帯によるメッセージ
+# 時間帯による文章
 if 5 <= hour < 12:
     status = "☀️ 朝: システム起動中… 実験開始"
 elif 12 <= hour < 18:
