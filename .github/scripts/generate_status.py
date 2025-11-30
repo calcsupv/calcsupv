@@ -6,16 +6,26 @@ JST_OFFSET_HOURS = 9
 now_jst = now_utc + timedelta(hours=JST_OFFSET_HOURS)
 
 hour = now_jst.hour
+minute = now_jst.minute
 day = now_jst.day
 
-if 5 <= hour < 12:
-    status = "☀️ 朝: システム起動中… 実験開始"
-elif 12 <= hour < 18:
-    status = "🌤 昼: ツールコンパイル中、混乱管理"
-elif 18 <= hour < 24:
-    status = "🌙 夜: 静かに調整中"
+status = ""
+total_minutes = hour * 60 + minute
+
+if total_minutes >= 5 * 60 and total_minutes < 9 * 60 + 30:
+    status = "☀️ 早朝起動: システムチェックと日次タスク準備中"
+
+elif total_minutes >= 9 * 60 + 30 and total_minutes < 15 * 60:
+    status = "🌤 ピーク稼働中: 集中して開発とコンパイルを行っています"
+
+elif total_minutes >= 15 * 60 and total_minutes < 18 * 60:
+    status = "🌆 クールダウン: 一日の成果を確認し、ログを整理中"
+
+elif total_minutes >= 18 * 60 and total_minutes < 24 * 60:
+    status = "🌙 最終調整: プッシュ前の確認作業中"
+    
 else:
-    status = "🌑 深夜: 不安定コード稼働中"
+    status = "🌑 深夜の指示: 指示に従ってコードが稼働中"
 
 status += f" | {day} 日目のログ"
 
