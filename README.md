@@ -1,5 +1,5 @@
 <!--STATUS-->
-☀️ 『ｵｩｹｨ』最近街行く人が俺に声をかけてくる。何もOKではない。 | 14 日目のログ
+🌤 『ここにノリアキってサインください』当たり前だが俺はノリアキさんではない。 | 14 日目のログ
 <!--/STATUS-->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
