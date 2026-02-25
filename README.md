@@ -1,5 +1,5 @@
 <!--STATUS-->
-🌑 この時間なら誰かSEXしてるんだろうな〜 | 26 日目のログ
+☀️ おはよう！ | 26 日目のログ
 <!--/STATUS-->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
