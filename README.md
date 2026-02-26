@@ -1,5 +1,5 @@
 <!--STATUS-->
-🌑 この時間なら誰かSEXしてるんだろうな〜 | 27 日目のログ
+🌑 クソったれども、指示に従っただけでハッカー気取りかよ | 27 日目のログ
 <!--/STATUS-->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
