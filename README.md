@@ -1,5 +1,5 @@
 <!--STATUS-->
-☀️ おはよう！ | 27 日目のログ
+🌤 『ここにノリアキってサインください』当たり前だが俺はノリアキさんではない。 | 27 日目のログ
 <!--/STATUS-->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
