@@ -1,5 +1,5 @@
 <!--STATUS-->
-🌆 夕方！ | 3 日目のログ
+🌙 「ｵｩｹｨ」ニコッと笑いかける。「ｻｲﾝﾁｮｯﾄﾏｯﾃﾈ」俺はUG。 | 3 日目のログ
 <!--/STATUS-->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
